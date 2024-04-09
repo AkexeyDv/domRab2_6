@@ -2,7 +2,7 @@ import java.util.*;
 
 public class RabList {
     public static void main(String[] args) {
-        List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7));
+        List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 12, 8, 5, 5, 6, 7));
         List<Integer> numList = new ArrayList<>();
         Set<Integer> numSet = new HashSet<>();
         //Объединенные 1 и 2 задания
